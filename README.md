@@ -7,3 +7,4 @@
 - Leer
 - Crear historias
 - Ver series
+- Comer
